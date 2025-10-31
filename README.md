@@ -1,1 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/QF1v7JX1)
+This project explores Calgary’s 2024 housing data, analyzing property density and correlations between features like assessed value, land size, and year of construction to uncover key urban housing trends.
